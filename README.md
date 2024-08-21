@@ -7,7 +7,7 @@
 
 # Build :
 first check if you have npm and install dependencies:
-
+```sh
 ```npm --version
 ```npm install
 
@@ -17,6 +17,5 @@ the project can be built with the command:
 
 or run a development server using:
 
-```npm run dev
-sh
-code
+npm run dev
+```

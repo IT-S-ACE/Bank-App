@@ -7,11 +7,14 @@
 
 # Build :
 first check if you have npm and install dependencies:
+
 ```npm --version
-npm install```
+```npm install
+
 the project can be built with the command:
 
-```npm run build```
+```npm run build
+
 or run a development server using:
 
-```npm run dev```
+```npm run dev

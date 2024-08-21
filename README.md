@@ -1,8 +1,17 @@
-# React + Vite
+# Bank-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features :
+- This App is a landing page for `New Generation of Payment` 
+- Dispaly a Modern vesion
+- `Fully Responsive`
 
-Currently, two official plugins are available:
+# Build :
+first check if you have npm and install dependencies:
+`npm --version
+npm install`
+the project can be built with the command:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`npm run build`
+or run a development server using:
+
+`npm run dev`

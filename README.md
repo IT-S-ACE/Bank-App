@@ -18,3 +18,5 @@ the project can be built with the command:
 or run a development server using:
 
 ```npm run dev
+sh
+code

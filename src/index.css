@@ -138,3 +138,11 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.img-background {
+  transition-duration:0.3s ;
+  transition-property: background-color;
+  &:hover{
+    background-color: white !important;
+  }
+}
